@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ComputingGod
+- 👀 I’m interested in being the GOAT of coding
+- 🌱 I’m currently learning nothing, I'm omniscient
+- 💞️ I’m looking to collaborate on nothing, people slow me down
+- 📫 How to reach me... Don't.
