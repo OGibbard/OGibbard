@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ComputingGod
-- It's nice to meet you, but its better to meet me
-- 👀 I’m interested in being the GOAT of coding
-- 🌱 I’m currently learning nothing, I'm omniscient
-- 💞️ I’m looking to collaborate on nothing, people slow me down
-- 📫 How to reach me... Don't.
+Hi,
+
+This is my code store.
+
+Oliver
