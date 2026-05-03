@@ -1,4 +1,5 @@
-This is my code store for my projects, let me know what you think.
+This is my code store for my projects, few bits here and there.
 
-Thanks,
+Let me know what you think!
+
 Oliver
